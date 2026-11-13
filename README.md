@@ -1,0 +1,2 @@
+# RarityKillCounter
+monster kill counter
